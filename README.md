@@ -4,8 +4,14 @@ just trying to learn some git commands so playing with them
 git pull --allow-unrelated-histories origin master
 for change proxy for git write command ***atom ~/.gitconfig***
 
-for customize buttons "https://github.com/hoang8f/android-flat-button"
+for customize buttons **https://github.com/hoang8f/android-flat-button**
       add in gradle build file **implementation 'info.hoang8f:fbutton:1.0.5'**
 
-for customize editview  "https://github.com/rengwuxian/MaterialEditText"
+for customize editview  **https://github.com/rengwuxian/MaterialEditText**
   add in gradle build file **implementation 'com.rengwuxian.materialedittext:library:2.1.4'**
+  
+ for learning RxJava Blog link 
+	**https://www.toptal.com/android/functional-reactive-android-rxjava**
+Mindorks blog for RxJava
+	**https://blog.mindorks.com/a-complete-guide-to-learn-rxjava-b55c0cea3631**
+
